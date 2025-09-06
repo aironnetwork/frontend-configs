@@ -1,0 +1,62 @@
+[
+	{
+		"title": "Airon Network",
+		"links": [
+			{
+				"text": "Home",
+				"url": "https://airon.network/"
+			},
+			{
+				"text": "Roadmap",
+				"url": "https://airon-network.gitbook.io/airon-network-docs/about-us/roadmap"
+			},
+			{
+				"text": "Tokenomics",
+				"url": "https://airon-network.gitbook.io/airon-network-docs/about-us/tokenomics"
+			}
+		]
+	},
+	{
+		"title": "Developers",
+		"links": [
+			{
+				"text": "Docs & Guide",
+				"url": "https://airon-network.gitbook.io/"
+			},
+			{
+				"text": "Developers’ Portal",
+				"url": "https://airon-network.gitbook.io/"
+			},
+			{
+				"text": "Faucet",
+				"url": "https://drop-faucet.airon.network"
+			},
+			{
+				"text": "Github",
+				"url": "https://github.com/aironnetwork"
+			}
+		]
+	},
+	{
+		"title": "Hub",
+		"links": [
+			{
+				"text": "MetaSuites",
+				"url": "https://blocksec.com/metasuites",
+				"iconUrl": [
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/metasuites.svg",
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/metasuites-dark.svg"
+				]
+			},
+			{
+				"text": "Sourcify",
+				"url": "https://sourcify.dev/",
+				"iconUrl": [
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/sourcify.svg",
+					"https://raw.githubusercontent.com/blockscout/frontend-configs/refs/heads/main/configs/footer-icons/sourcify-dark.svg"
+				]
+			}
+			
+		]
+	}
+]
